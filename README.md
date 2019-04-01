@@ -1,9 +1,11 @@
 
-*****************************  PROIECT RETELE - LEAR NET  ******************************
-                       student: Racovita Madalina-Alina ; grupa: B2
+***  PROIECT RETELE - LEAR NET  ***
 
-1. Dependente: SQLite3
-	             Qt Creator
+student: Racovita Madalina-Alina ; grupa: B2
+
+1. Dependente: 
+	      SQLite3
+	      Qt Creator
 
 2. Mod de rulare: Pentru a rula proiectul se vor deschide in Qt Creator proiectele: LearNetProj.pro si server.pro. 
 Pentru a compila clientul si serverul se va folosi optiune "Built", iar pentru rulare optiune "Run".Rulam mai intai serverul, apoi clientul. 
